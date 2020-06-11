@@ -22,4 +22,5 @@ First, I downloaded all the articles and OCR'd them in R to get txt files.
                   })
 
 Then I ran them through the Topic Modelling Tool.
+  (See: https://github.com/rachelnadia/week-six/tree/master/output_csv)
 
