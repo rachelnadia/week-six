@@ -31,3 +31,5 @@ Then I ran them through the Topic Modelling Tool.
      3.	drink husband thompson man mrs _ wife children family people alcoholic 1 ing find feel dear work don te make
 - From this topic, I make out that the columns deal with family issues surrounded the use of alcohol, such as the inability for the husband to find work
 - Thus, I labelled this column as "alcohol disables breadmaker"
+
+![image i just uploaded](Topic_Models_Explained.png)
