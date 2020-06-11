@@ -28,4 +28,6 @@ Then I ran them through the Topic Modelling Tool.
 
 - Topic 3 was the most common in the majority of the documents
 
-        3.	drink husband thompson man mrs _ wife children family people alcoholic 1 ing find feel dear work don te make
+     3.	drink husband thompson man mrs _ wife children family people alcoholic 1 ing find feel dear work don te make
+- From this topic, I make out that the columns deal with family issues surrounded the use of alcohol, such as the inability for the husband to find work
+- Thus, I labelled this column as "alcohol disables breadmaker"
