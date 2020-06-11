@@ -26,10 +26,6 @@ Then I ran them through the Topic Modelling Tool.
 
 ![image i just uploaded](TMgraph.png)
 
-
-### Next, I created a corpus of the files to analyze in Voyant
-
-
 - Topic 3 was the most common in the majority of the documents
 
      3.	drink husband thompson man mrs _ wife children family people alcoholic 1 ing find feel dear work don te make
