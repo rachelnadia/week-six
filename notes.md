@@ -33,3 +33,6 @@ Then I ran them through the Topic Modelling Tool.
 - Thus, I labelled this column as "alcohol disables breadmaker"
 
 ![image i just uploaded](Topic_Models_Explained.png)
+
+From reading the Mrs. Thompson Advises column I know that sometimes those writing in (usually women) disagree with Thompson's adive. Topic 6 I labelled "disagreement" because I feel these words within the topic suggest that these may be articles written in disagreement with Mrs. Thompson. However, this topic (Topic 6) only accounts for more than 5% of words in 6 documents. This means that about 3/10 or 30% of the articles examined might question Mrs. THompson's advice. 
+
