@@ -47,3 +47,5 @@ This leads in to Topic 3: "Alcohol disables breadmaker". Alcohol abuse and addic
 ### Next, I created a text corpus with the article files to analyze in Voyant
 
 How does the text explain the realtionship between husband, wife, and alcohol?
+
+      <iframe style='width: 530px; height: 315px;' src='https://voyant-tools.org/tool/CorpusTerms/?corpus=863dee3ebefb099613659260236d2e02'></iframe>
