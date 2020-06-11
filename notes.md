@@ -24,3 +24,7 @@ First, I downloaded all the articles and OCR'd them in R to get txt files.
 Then I ran them through the Topic Modelling Tool.
   (See: https://github.com/rachelnadia/week-six/tree/master/output_csv)
 
+![image i just uploaded](TMgraph.png)
+
+- Topic 3 was the most common in the majority of the documents
+        3.	drink husband thompson man mrs _ wife children family people alcoholic 1 ing find feel dear work don te make
