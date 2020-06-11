@@ -48,4 +48,8 @@ This leads in to Topic 3: "Alcohol disables breadmaker". Alcohol abuse and addic
 
 How does the text explain the realtionship between husband, wife, and alcohol?
 
-      <iframe style='width: 530px; height: 315px;' src='https://voyant-tools.org/tool/CorpusTerms/?corpus=863dee3ebefb099613659260236d2e02'></iframe>
+<iframe style='width: 530px; height: 315px;' src='https://voyant-tools.org/tool/CorpusTerms/?corpus=863dee3ebefb099613659260236d2e02'></iframe>
+
+I also created a word cloud for this corpus.
+
+![image i just uploaded](voyant.svg)
