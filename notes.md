@@ -45,3 +45,5 @@ I would also like to analyze Topic 1 which I labelled "Normal family". This topi
 This leads in to Topic 3: "Alcohol disables breadmaker". Alcohol abuse and addiction often led to loss of work and loss of income for the family. This was a point that Mrs. Thompson made in her articles. However, her suggestions for solution was greatly a product of the time. She sometimes suggested that the wife look at herself to blame for the drinking or for the continuation of the drinking, again situating us in the context of the time period that the articles were written. 
 
 ### Next, I created a text corpus with the article files to analyze in Voyant
+
+How does the text explain the realtionship between husband, wife, and alcohol?
