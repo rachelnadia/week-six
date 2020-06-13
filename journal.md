@@ -38,6 +38,19 @@ Below is the two posters - one from a manual analysis and one from a digital ana
 ![image i just uploaded](poster_comparison.png)
 
 Left: poster based on the manual analysis of the column. Full poster found here: https://github.com/rachelnadia/week-six/blob/master/poster2.svg
+
 Right: poster based on the digital analysis of the column. Full poster found here: https://github.com/rachelnadia/week-six/blob/master/poster1.svg
 
+In week five we read Hitchcock and learned about the benefits and losses of manual versus digital historical analysis. Hitchcock said that digital history allows you to study new things - they open up a world full of possibilities. I found this to be true when working with the Mrs. Thompson Advises Column. In my manual analysis, I knew some articles were written in disagreement with Thompson, but how many? Using Topic Modelling and if I had gone even further with AntConc, I was able to get a better understanding of how many articles were written in opposition.
 
+The other thing that was very useful about the Topic Modelling was that it finds the 10 topics throughout all 20 articles. Thus is a lot more difficult to do from just reading and taking notes on each individual articles. It allows for a combined analysis which may be easier to spot trends.
+
+In both of the ways mentioned above, digital history offers a quantitative study to an otherwise qualitative work. Using Modelling and statistics can be a good way to identify trends and potentially use those to make predictions in other works. For example, if I had more time to work on this I would like to analyze the same articles found with the search terms Mrs. Thompson Advises AND alcohol, but narrow the dates from 1960 to 1969. When the decades change and there is a slightly different context in the society to which these articles were being written, how would the results of the analysis change?
+
+What I mentioned in week four I see here as well. In week four I wrote "one thing that I think can get lost in historical argumentation through digital history is the emotion. Hitchcock said that digital history is about more than words on a page. Digital history includes sounds, objects, and space, he continued. I think it is important to remember that these histories that we look at exist in a larger context than the medium they are taken in. It is important to remember that these histories were people's real lives. As a new digital historian, it is easy to get bogged down in the words".
+
+When I look at the two posters above I feel the one on the left displays greater emotion than the one on the write. A manual analysis allows you to have a more personable connection to the piece you are studying. The ideas in the poster on the left are more blended, pictures are added, and the analysus flows. The right shows a poster that is clear cut. Arrows tell you which way to follow and each section is clearly deliniated from each other. I think this can happen with a digital analysis. Since the analysis is more solid, definitive, and less free-flowing, your final work can appear this way too. This is just one of the many ways we can debate the uses of both kinds of historical argumentation.
+
+## Conclusion
+
+Overall, the mini project that I worked on this week was eye-opening. It allowed me to get more practice with the digital tools we learned in this class and to get a better understanding of how they can all work together. 
