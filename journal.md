@@ -37,8 +37,7 @@ Below is the two posters - one from a manual analysis and one from a digital ana
 
 ![image i just uploaded](poster_comparison.png)
 
-Right: poster based on the manual analysis of the column. Full poster found here: https://github.com/rachelnadia/week-six/blob/master/poster2.svg
-
-Left: poster based on the digital analysis of the column. Full poster found here: https://github.com/rachelnadia/week-six/blob/master/poster1.svg
+Left: poster based on the manual analysis of the column. Full poster found here: https://github.com/rachelnadia/week-six/blob/master/poster2.svg
+Right: poster based on the digital analysis of the column. Full poster found here: https://github.com/rachelnadia/week-six/blob/master/poster1.svg
 
 
