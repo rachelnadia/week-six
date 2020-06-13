@@ -11,7 +11,7 @@ I accessed the Globe and Mail database through MacOdrum library. In the advances
 
 I then opened RStudio to use OCR to get a text file for each column. I proceeded to copy these text outputs into their own folder called input within a tmt folder.
 
-I ran this input throguh the Topic Modelling Tool. With my results, I continuously went back and forth between the .cvs and the .html output. This process was time consuming and depending on howw much time I had to work on the project, I know I could have done a more in depth analysis of the topics. In the end, I decided on three topics that I was going to analyze in greater depth. I will talk about those results below.
+I ran this input throguh the Topic Modelling Tool. With my results, I continuously went back and forth between the .cvs and the .html output. This process was time consuming and depending on howw much time I had to work on the project, I know I could have done a more in depth analysis of the topics. A shown in Moravec’s work, going back and forth is crucial to analyzing the questions before you even come to an answer. This process is very time consuming; she mentioned at the beginning of her post that she has ultimately been studying for 20 years. In the end, I decided on three topics that I was going to analyze in greater depth. I will talk about those results below.
 
 Using my text file results from running an OCR, I copied the output text into an excel file to create a corpus of the columns. To each row I added the date and the title of the newspaper (Globe and Mail). I uploaded this text corpus to Voyant for a more visual analysis. In Voyant, I added many words to the stop list to weed out the jibberish of the unrecognizable words frm the OCR. I mostly made reference to the word cloud which I will talk about more below.
 
@@ -19,3 +19,10 @@ Finally, I decided to share my results using a poster format. I created this pos
 
 ## Results
 
+In this section I will discuss the results I found from using the Topic Modelling Tool and Voyant. Through the Topic Modelling Tool I received results of 10 topics. For three topics I analyzed back and forth between the microscope and the macroscope. 
+
+First, I would like to analyze Topic 1 which I labelled "Normal family". This topic is not the most prevalent in any document but it is underlying in all but 2 of the 20 documents. This demonstrates the importance of the context in which Mrs. Thompson was writing. She was writing in the 1950s which is where this idea of the nuclear family came about. The husband was to be the breadmaker and the wife the homemaker. Alcohol disrupted this balance and threw off the "normal family" as sometimes women got jobs and started to defy gender norms of the time. Shown by the presence of this topic, this was not necessarily the point Mrs. Thompson was striving to make; however, it was underlayed in her argument because of the social environment at the time.
+
+This leads in to Topic 3: "Alcohol disables breadmaker". Alcohol abuse and addiction often led to loss of work and loss of income for the family. This was a point that Mrs. Thompson made in her articles. However, her suggestions for solution was greatly a product of the time. She sometimes suggested that the wife look at herself to blame for the drinking or for the continuation of the drinking, again situating us in the context of the time period that the articles were written.
+
+Fianlly, From reading the Mrs. Thompson Advises column I know that sometimes those writing in (usually women) disagree with Thompson's adive. Topic 6 I labelled "disagreement" because I feel these words within the topic suggest that these may be articles written in disagreement with Mrs. Thompson. However, this topic (Topic 6) only accounts for more than 5% of words in 6 documents. This means that about 3/10 or 30% of the articles examined might question Mrs. Thompson's advice.
