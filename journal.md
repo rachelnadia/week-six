@@ -25,4 +25,10 @@ First, I would like to analyze Topic 1 which I labelled "Normal family". This to
 
 This leads in to Topic 3: "Alcohol disables breadmaker". Alcohol abuse and addiction often led to loss of work and loss of income for the family. This was a point that Mrs. Thompson made in her articles. However, her suggestions for solution was greatly a product of the time. She sometimes suggested that the wife look at herself to blame for the drinking or for the continuation of the drinking, again situating us in the context of the time period that the articles were written.
 
-Fianlly, From reading the Mrs. Thompson Advises column I know that sometimes those writing in (usually women) disagree with Thompson's adive. Topic 6 I labelled "disagreement" because I feel these words within the topic suggest that these may be articles written in disagreement with Mrs. Thompson. However, this topic (Topic 6) only accounts for more than 5% of words in 6 documents. This means that about 3/10 or 30% of the articles examined might question Mrs. Thompson's advice.
+Fianlly, From reading the Mrs. Thompson Advises column I know that sometimes those writing in (usually women) disagree with Thompson's adive. Topic 6 I labelled "disagreement" because I feel these words within the topic suggest that these may be articles written in disagreement with Mrs. Thompson. However, this topic (Topic 6) only accounts for more than 5% of words in 6 documents. This means that about 3/10 or 30% of the articles examined might question Mrs. Thompson's advice. When I read Moravec’s work this week I realized I could have taken this one step further. Topic Modelling suggests that these articles were written in disagreement with Mrs. Thompson; however, a more in depth search using AntConc would be useful in proving this point further.
+
+When I went to use Voyant, I asked myself to look at the relationship between the words and how Thompson used language to describe this relationship between husband, wife, and alcohol. The word cloud was very useful for this. Some of the most prominant words are husband, drink, work, help, family, and home. When I go back and read Thompson's columns, these are often issues that women were writing in about.
+
+## Comparison
+
+Finally I would like to compare the results from this digital analysis to the manual analysis I have done of this column.
